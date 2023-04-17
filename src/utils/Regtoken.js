@@ -1,0 +1,1 @@
+import {userRegister} from "@/api"
